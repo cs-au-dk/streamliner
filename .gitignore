@@ -1,0 +1,11 @@
+/out
+/lib
+/transformed
+*.class
+/misc/out.json
+/misc/pdfs
+
+/.idea
+/*.iml
+
+/RQ2/repos
